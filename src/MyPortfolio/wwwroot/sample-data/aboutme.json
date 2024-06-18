@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am a game development student attending Gyeongbuk Software High School. I enjoy creating Unity components in creative ways.",
   "skills": [
     "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
+    "Unity Develop",
+    "Frontend Develop",
+    "Backend Develop",
+    "Unity UI/UX design",
     "Graphic design"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about solving problems in new and creative ways to drive new ways of development. I leverage my extensive experience in Unity, frontend, and backend to continually find new and better ways to make new technologies accessible to everyone."
 }
